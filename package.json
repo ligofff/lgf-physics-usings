@@ -1,0 +1,27 @@
+{
+  "name": "com.ligofff.lgf-physics-usings",
+  "displayName": "Ligofff - LGF Physics Usings",
+  "version": "0.1.0",
+  "unity": "2022.2",
+  "description": "Just C# using construction for temporary toggle engine physics settings",
+  "keywords": [
+    "unity",
+	"unity3d",
+	"upm",
+    "ligofff",
+    "utility"
+  ],
+  "homepage": "https://github.com/ligofff/lgf-physics-usings.git",
+  "bugs": {
+    "url": "https://github.com/ligofff/lgf-physics-usings/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ligofff/lgf-physics-usings.git"
+  },
+  "license": "MIT",
+  "author": "Ligofff (https://ligofff.com)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
